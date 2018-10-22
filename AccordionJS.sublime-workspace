@@ -1,0 +1,682 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_sel",
+				"_selectedStepId"
+			],
+			[
+				"_",
+				"_selecteed"
+			],
+			[
+				"_c",
+				"_currentStep"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"_self",
+				"_selfId"
+			],
+			[
+				"_se",
+				"_settings"
+			],
+			[
+				"fa",
+				"fa-check-square-o"
+			],
+			[
+				"_s",
+				"_self"
+			],
+			[
+				"fa-s",
+				"fa-minus-square-o"
+			],
+			[
+				"job",
+				"jobbuilder"
+			],
+			[
+				"get",
+				"getStepContentID"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"ste",
+				"steps"
+			],
+			[
+				"c",
+				"contents"
+			],
+			[
+				"s",
+				"sets"
+			],
+			[
+				"acco",
+				"accordion-content"
+			],
+			[
+				"ac",
+				"accordion"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"accord",
+				"accordion-title"
+			],
+			[
+				"opt",
+				"optgroup\tTag"
+			],
+			[
+				"set",
+				"setSizes"
+			],
+			[
+				"con",
+				"contentWidth"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"p",
+				"percent"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"background-",
+				"background-repeat"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"no",
+				"not-allowed"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"write",
+				"writeln"
+			],
+			[
+				"THREE",
+				"THREE"
+			],
+			[
+				"inner",
+				"innerHeight"
+			],
+			[
+				"inn",
+				"innerWidth"
+			],
+			[
+				"Sc",
+				"scene"
+			],
+			[
+				"pst",
+				"pstrDiskName"
+			],
+			[
+				"pstr",
+				"pstrDiskUUID"
+			],
+			[
+				"pstrD",
+				"pstrDiskName"
+			],
+			[
+				"objName",
+				"objNameCaps"
+			],
+			[
+				"ob",
+				"objName"
+			],
+			[
+				"m",
+				"minute"
+			],
+			[
+				"objN",
+				"objNameCaps"
+			],
+			[
+				"insert",
+				"insertJSTrace"
+			],
+			[
+				"inse",
+				"insertCTrace"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "accordian.html",
+			"settings":
+			{
+				"buffer_size": 1556,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/jquery.accordionjs.js",
+			"settings":
+			{
+				"buffer_size": 6995,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/jquery.accordionjs.css",
+			"settings":
+			{
+				"buffer_size": 3142,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Changelog"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 304.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"cls",
+			"clear",
+			"view.run_command(\"trace\")",
+			"view.run_command(\"insertTrace\")",
+			"view.run_command(\"InsertTrace\")",
+			"view.run_command(\"inserttrace\")",
+			"view.run_command(\"inserttrace\");",
+			"view.run_command('InsertTrace');",
+			"view.run_command('example');"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/stuart/Downloads/vmware-2376/vixDiskLib-2788.log",
+		"/C/Users/stuart/Downloads/vmware-2376/vmware-2788.log",
+		"/C/Users/stuart/Downloads/vmware-2376/vmware-2376.log",
+		"/C/Users/stuart/Downloads/vmware-2376/vmware-1576.log",
+		"/C/Users/stuart/AppData/Local/Temp/Temp1_NotoSans-hinted.zip/LICENSE_OFL.txt",
+		"/C/Users/stuart/ownCloud/www/AccordionJS/js/jquery-min.js",
+		"/C/Users/stuart/Downloads/vpxd-994.log",
+		"/C/Users/stuart/Downloads/vpxd-993.log",
+		"/C/Users/stuart/ownCloud/www/AccordionJS/js/jquery.jobbuilder.js",
+		"/C/Users/stuart/ownCloud/www/AccordionJS/css/jquery.jobbuilder.css",
+		"/C/Users/stuart/ownCloud/www/AccordionJS/backup.html",
+		"/C/Users/stuart/AppData/Local/Temp/SR3594732-gdb-core.txt",
+		"/C/Users/stuart/ownCloud/Work/PP/js/jquery.jobbuilder.js",
+		"/C/Users/stuart/ownCloud/Work/PP/css/jquery.jobbuilder.css",
+		"/C/Users/stuart/ownCloud/Work/PP/backup.html",
+		"/C/Users/stuart/ownCloud/Work/PP/css/vmware.css",
+		"/C/Users/stuart/Desktop/3587386-1/vddk log/vddk log/vmware-8188.log",
+		"/C/Users/stuart/Desktop/3587386-1/2016-08-18--16-51-18.txt",
+		"/C/Users/stuart/Downloads/Logs/vmware.log",
+		"/C/Users/stuart/Downloads/vixDiskLib-15848.log",
+		"/C/Users/stuart/Desktop/Dashboard/js/circliful.js",
+		"/C/Users/stuart/Desktop/Dashboard/js/jquery.circliful.js",
+		"/C/Users/stuart/Desktop/PP/index.html",
+		"/C/Users/stuart/Desktop/PP/css/jquery.jobbuilder.css",
+		"/C/Users/stuart/Desktop/PP/js/jquery.jobbuilder.js",
+		"/C/Users/stuart/Desktop/PP/backup.html",
+		"/C/Users/stuart/Desktop/PP/restore.html",
+		"/C/Users/stuart/Desktop/PP/css/vmware.css",
+		"/C/Users/stuart/Desktop/myenv",
+		"/C/Users/stuart/Downloads/3562797-1/vmware-SYSTEM.1.0/vmware-SYSTEM.1.0.- VMware_Produccion_Diferencial.20160714/vixDiskLib-804.log",
+		"/C/Users/stuart/Downloads/3562797-1/vmware-SYSTEM.1.0/vmware-SYSTEM.1.0.- VMware_Produccion_Diferencial.20160714/vixDiskLib-6752.log",
+		"/C/Users/stuart/Downloads/3562797-1/vmware-SYSTEM.1.0/vmware-SYSTEM.1.0.- VMware_Produccion_Diferencial.20160714/vixDiskLib-8156.log",
+		"/C/Users/stuart/Downloads/3562797-1/vmware-SYSTEM.1.0/vmware-SYSTEM.1.0.- VMware_Produccion_Diferencial.20160714/vixDiskLib-3796.log",
+		"/C/Users/stuart/Downloads/vmware-SYSTEM/vmware-1132.log",
+		"/C/Users/stuart/Downloads/vmware-SYSTEM/vmware-2160.log",
+		"/C/Users/stuart/Downloads/vmware-SYSTEM/vmware-1608.log",
+		"/C/Users/stuart/Downloads/vmware-SYSTEM/vmware-2404.log",
+		"/C/Users/stuart/Downloads/vmware-SYSTEM/vmware-1372.log",
+		"/C/Users/stuart/Downloads/vmware-SYSTEM/vmware-1688.log",
+		"/C/Users/stuart/Desktop/PP/VMwarePP_files/jquery.js",
+		"/C/Users/stuart/Desktop/PP/VMwarePP_files/nvcommon.js",
+		"/C/Users/stuart/Downloads/font-awesome-4.6.3/font-awesome-4.6.3/less/core.less",
+		"/C/Users/stuart/Downloads/font-awesome-4.6.3/font-awesome-4.6.3/less/icons.less",
+		"/Z/Building GCC.txt",
+		"/C/Users/stuart/Desktop/PP/css/accordion.css",
+		"/C/Users/stuart/Desktop/PP/js/accordion.js",
+		"/C/Users/stuart/Desktop/PP/js/jobpage.js",
+		"/Z/Projects/PP/VMwarePP.htm",
+		"/C/Users/stuart/Desktop/PP/js/jquery.circliful.min.js",
+		"/C/Users/stuart/Desktop/PP/js/jquery.flot.js",
+		"/C/Users/stuart/Desktop/PP/1200px wide.css",
+		"/C/Users/stuart/Desktop/PP/700px wide.css",
+		"/C/Users/stuart/Desktop/PP/accordian.html",
+		"/C/Users/stuart/Desktop/PP/js/accordian.js",
+		"/C/Users/stuart/Desktop/PP/accordian-clean.html",
+		"/C/Users/stuart/Desktop/Dashboard/VMwarePP.htm",
+		"/C/Users/stuart/Downloads/ForSupport/vixDiskLib-4756.log",
+		"/C/Users/stuart/Downloads/ForSupport/vmware-4756.log",
+		"/C/Users/stuart/Downloads/ForSupport/vixDiskLib-1800.log",
+		"/C/Users/stuart/Desktop/Dashboard/css/vmware.css",
+		"/C/Users/stuart/Desktop/Dashboard/css/font-awesome.css",
+		"/C/Users/stuart/Downloads/2016-07-15--10-37-53-active/2016-07-15--10-37-53/header.txt",
+		"/C/Users/stuart/Downloads/font-awesome-4.6.3/font-awesome-4.6.3/HELP-US-OUT.txt",
+		"/C/Users/stuart/Desktop/Dashboard/css/jquery.circliful.css",
+		"/C/Users/stuart/Desktop/HeriarchyBrowser/index.html",
+		"/C/Users/stuart/Desktop/HeriarchyBrowser/js/hb3.js",
+		"/C/Users/stuart/Desktop/HeriarchyBrowser/js/elfinder.full.js",
+		"/C/Users/stuart/Desktop/PP/js/Plugin.js",
+		"/C/Users/stuart/Desktop/PP/VMwarePP.htm",
+		"/Z/Documents/VMware/VixErrorCodes.txt",
+		"/C/Users/stuart/Downloads/PPLibs/flot/examples/categories/index.html",
+		"/C/Users/stuart/Downloads/PPLibs/flot/examples/visitors/index.html",
+		"/C/Users/stuart/Downloads/PPLibs/flot/jquery.flot.categories.js",
+		"/C/Users/stuart/Downloads/vmware-1316.log",
+		"/C/Users/stuart/AppData/Local/Temp/Temp1_vmware.zip/vmware/locale/chinesesimp/locale1108.ctl",
+		"/C/Users/stuart/AppData/Local/Temp/Temp1_vmware.zip/vmware/locale/japanese/locale1108.ctl",
+		"/C/Users/stuart/Downloads/jquery-plugin-circliful-master/jquery-plugin-circliful-master/index.html",
+		"/Z/Projects/DatastoreUsage.ps1",
+		"/C/Users/stuart/Desktop/SnapshotReport.txt",
+		"//ukpflsw01.prod.quest.corp/Software/Microsoft/Windows Server 2012/Windows Server 2012 Standard & Datacenter (Volume License)/Add key once installed.txt",
+		"/C/Users/stuart/Documents/My Received Files/reptables.cfg",
+		"/C/Users/stuart/Downloads/vixDiskLib-7420/vixDiskLib-7420.log",
+		"/C/Users/stuart/Downloads/vixDiskLib-7420/vixDiskLib-5724.log",
+		"/C/Users/stuart/Downloads/vixDiskLib-7420/vixDiskLib-3636.log",
+		"/Z/good.json",
+		"/C/Users/stuart/Downloads/vRanger/vr-vranger-master/vr-vranger-master/Vizioncore/Vmware/Vim/PropertyQuery.cs",
+		"/C/Users/stuart/Downloads/vRanger/vr-vranger-master/vr-vranger-master/Vizioncore.VimService/Vizioncore.VimService/Vim50Helper.cs",
+		"/C/Users/stuart/Downloads/vRanger/vr-vranger-master/vr-vranger-master/Vizioncore.VimService/Vizioncore.VimService/VimClasses.cs",
+		"/C/Users/stuart/AppData/Local/Temp/VMware_Plugin-1464966166.log",
+		"/C/Users/stuart/AppData/Local/Temp/Install_libreOffice_4.3.7_log_3GKF.txt",
+		"/C/Users/stuart/AppData/Local/Temp/Install_libreOffice_4.3.7_log.txt",
+		"/C/Users/stuart/Desktop/UnlockVMs.ps1",
+		"/C/Users/stuart/Desktop/SnapshotReport.csv",
+		"/C/Users/stuart/Desktop/ShapshotReport.csv",
+		"/C/Users/stuart/Desktop/src/vmware/util/Windows/DisableCBT.ps1",
+		"/C/Users/stuart/Desktop/src/vmware/util/Windows/MassDeploy.ps1",
+		"/C/Users/stuart/AppData/Local/Temp/logs-2016-05-18--11-31-10-1.txt",
+		"/C/Users/stuart/AppData/Local/Temp/logs-2016-05-18--11-31-10.txt",
+		"//ukpflsw01.prod.quest.corp/stuart.flawith$/PROC_ASSERTS.txt",
+		"/C/Users/stuart/Downloads/VMware-vSphere-SDK-6.0.0-3634981/SDK/vsphere-ws/java/JAXWS/samples/com/vmware/connection/ConnectedVimServiceBase.java",
+		"/C/Users/stuart/Downloads/VMware-vSphere-SDK-6.0.0-3634981/SDK/vsphere-ws/java/JAXWS/samples/com/vmware/general/Browser.java",
+		"/C/Users/stuart/Downloads/VMware-vSphere-SDK-6.0.0-3634981/SDK/vsphere-ws/java/JAXWS/samples/com/vmware/general/Create.java",
+		"/C/Users/stuart/Desktop/vmware-4972.log",
+		"/C/Users/stuart/Desktop/src/vmware/util/Windows/MassDelete.ps1",
+		"/C/Users/stuart/Downloads/CR3361855/2016-05-09--14-23-38/2016-05-09--14-23-38/vmw4227_soapsent.log",
+		"/C/Users/stuart/AppData/Local/Temp/vixDiskLib-2188.log",
+		"/C/Users/stuart/AppData/Local/Temp/VMware+restore+using+SAN+transport+mode+fails+with+error+code+16000+KB148731.txt",
+		"/Z/Login-SOAP.xml",
+		"/C/Users/stuart/Desktop/Case3233726-1/vmw472_soaprecv.log",
+		"/C/Users/stuart/Desktop/vixDiskLib-2804.log",
+		"/Z/vixDiskLib-2804.log",
+		"/Z/github_key.pub",
+		"/C/Users/stuart/Desktop/vmware-2476.log",
+		"/C/Users/stuart/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/F3XO1TR0/vmware jmake dev out.trunk",
+		"/C/Users/stuart/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/F3XO1TR0/pgadmin3_test_sql_front_side_data.sql",
+		"/C/Users/stuart/Desktop/vixDiskLib-6672.log",
+		"/C/Users/stuart/Desktop/vixDiskLib-7932.log",
+		"/C/Users/stuart/Downloads/bugzilla-4.4.11.tar/bugzilla-4.4.11/contrib/bugzilla-submit/bugzilla-submit",
+		"/C/Users/stuart/Downloads/bugzilla-4.4.11.tar/bugzilla-4.4.11/contrib/bugzilla-submit/README",
+		"/C/Users/stuart/Downloads/bugzilla-4.4.11.tar/bugzilla-4.4.11/contrib/bugzilla-submit/bugzilla-submit.xml",
+		"/C/Users/stuart/Downloads/bugzilla-4.4.11.tar/bugzilla-4.4.11/contrib/bugzilla-submit/bugdata.txt",
+		"/C/Users/stuart/Downloads/bugzilla-4.4.11.tar/bugzilla-4.4.11/Bugzilla/WebService/Server/JSONRPC.pm",
+		"/C/Users/stuart/Downloads/bugzilla-4.4.11.tar/bugzilla-4.4.11/Bugzilla/WebService/README",
+		"/C/Users/stuart/Downloads/bugzilla-4.4.11.tar/bugzilla-4.4.11/xmlrpc.cgi",
+		"/C/Users/stuart/Downloads/bugzilla-4.4.11.tar/bugzilla-4.4.11/contrib/bugzilla-queue.rhel",
+		"/C/Users/stuart/Downloads/bugzilla-4.4.11.tar/bugzilla-4.4.11/contrib/bz_webservice_demo.pl",
+		"/C/Users/stuart/Desktop/SMF-Win2012/SMF-Win2012.vmx",
+		"/C/Users/stuart/Desktop/Ubuntu 1/Ubuntu 1.vmx"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jobbuilder",
+			"CSU-000-MS01",
+			"jobbuilder",
+			"flight",
+			"VixDiskLib_Open",
+			"accordion",
+			"03",
+			"info",
+			"dimension",
+			"data",
+			"'',\n",
+			"san",
+			"san://",
+			"right",
+			";\n",
+			"Wait",
+			"1590",
+			"Ubuntu 1",
+			"OpenEx",
+			" ascii='FALSE'",
+			"'TRUE' = UCharStrIsValidUTF8('",
+			"d:\\temp\\SRV-DATA\\\\001-SRV-DATA_2_vmdk-Partition1\\Sales\\Archives\\SMS- M3\\",
+			"LVID",
+			"open",
+			"LVID",
+			"open",
+			"\",",
+			"^6\tVDDK(.)*\tVDDK: ",
+			"exit",
+			"290PVS002",
+			"GetNetwork",
+			"getPbmProfileSpec",
+			"createVmConfigSpec",
+			"propertyFilterSpecs",
+			"$vm ",
+			"ImportvApp",
+			"gray",
+			"grey",
+			"media action",
+			"500",
+			"2015-06-24",
+			"Guest",
+			"cpuid",
+			"sv-lystd-a2",
+			"sv-cas-a2",
+			"BKB_SNAP",
+			"sv-",
+			"BKB",
+			"goto_line"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"accordionjs",
+			"jobbuilder",
+			"",
+			"$vmName "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "accordian.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								919,
+								919
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/jquery.accordionjs.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5079,
+								5079
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1395.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/jquery.accordionjs.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2441,
+								2448
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1029.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "AccordionJS.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
